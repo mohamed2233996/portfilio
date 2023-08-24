@@ -146,7 +146,7 @@ body {
     }
 
     .intro {
-        background: url(/img/land-back.png) no-repeat;
+        background: url(img/land-back.png) no-repeat;
         background-size: 70%;
         background-position: 150% 30%;
     }
@@ -224,7 +224,7 @@ body {
 
 .bio-img::after {
     content: "";
-    background: url(/img/doots.png);
+    background: url(img/doots.png);
     position: absolute;
     width: 30%;
     height: 20%;
